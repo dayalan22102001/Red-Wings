@@ -1,0 +1,1 @@
+An enhanced Blood Banks and Blood Donors Tracking Service using that will aid in bridging the gap between blood banks, blood donors, and patients. The Android application is loaded with features like geo-tagging, donors tracking, profile sharing and so on, which can assist people in receiving blood in urgent situations like natural disasters.
